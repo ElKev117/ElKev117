@@ -1,15 +1,22 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+      <section>
+      <a href="https://www.linkedin.com/in/kevin-ruda-g%C3%B3mez-322531226">
+          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <section/>
+      <section>
+        <img src="https://komarev.com/ghpvc/?username=ElKev117&style=flat-square&color=blue" alt="" align="center"/>
+      <section/>
+      
 </div>
 
 ## Hi there 👋
 
 ![Banner Github](https://github.com/ElKev117/ElKev117/blob/main/resized.jpg)
 
-<a href="https://www.linkedin.com/in/kevin-ruda-g%C3%B3mez-322531226" align=“center”>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
-<img src="https://komarev.com/ghpvc/?username=ElKev117&style=flat-square&color=blue" alt="" align="center"/>
+
+
 
 <h1>
   hey there
