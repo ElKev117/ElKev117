@@ -1,4 +1,4 @@
-![Banner Github][=48x48](https://github.com/ElKev117/ElKev117/blob/main/_e9146ea6-5126-46a6-a41f-be7dfcf36119.jpg)
+![Banner Github](https://github.com/ElKev117/ElKev117/blob/main/resized.jpg)
 
 
 
