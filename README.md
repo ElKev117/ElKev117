@@ -1,8 +1,5 @@
+#### Hi there 👋
 ![Banner Github](https://github.com/ElKev117/ElKev117/blob/main/resized.jpg)
-
-
-
-### Hi there 👋
 
 <!--
 **ElKev117/ElKev117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
